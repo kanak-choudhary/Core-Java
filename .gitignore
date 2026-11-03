@@ -1,0 +1,10 @@
+
+# Ignore compiled Java files
+*.class
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore VS Code workspace settings (optional)
+.vscode/
+/Users/kanak/Documents/Source code/Core Java /Statements
