@@ -3,6 +3,8 @@ public class getsDiscount {
         
         int amount=1000;
 
+        System.out.println("total amount:" + amount);
+
         if (amount >= 1500) {
             System.out.println("Customer gets a discount");
         }
