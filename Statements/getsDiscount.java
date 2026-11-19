@@ -3,7 +3,8 @@ public class getsDiscount {
         
         int amount=1000;
 
-        System.out.println("total amount:" + amount);
+        if (amount>0) {
+             System.out.println("total amount:" + amount);
 
         if (amount >= 1500) {
             System.out.println("Customer gets a discount");
@@ -11,5 +12,11 @@ public class getsDiscount {
         else{
             System.out.println("Customer can't gets discount because purchase amount is less than 1500 $");
         }
+        }
+       
+
+
+
+
     }
 }
