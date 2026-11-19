@@ -5,7 +5,7 @@ public class evenOdd {
 
         int num = 42; // 
 
-        
+        System.out.println("the num is " + num);
             if (num % 2 == 0) {  //  42/2=21 > % = 0
                 // 43/2=21.5 > %= 0.5
                 System.out.println(num + " is even number");

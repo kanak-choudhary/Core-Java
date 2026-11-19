@@ -3,6 +3,8 @@ public class drivingEligible {
         
         int age=11;
 
+    System.out.println("Age of person is:" + age);
+
         if (age>0) {
 
              if (age>=18) {
