@@ -3,6 +3,8 @@ public class productStock {
         
         int productItem=10;
 
+        System.out.println("total item :" + productItem);
+
         if (productItem > 0) {
             System.out.println("Product in Stock");
         }
