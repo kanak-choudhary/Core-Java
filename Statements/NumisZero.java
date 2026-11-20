@@ -4,7 +4,7 @@ public class NumisZero {
     public static void main(String[] args) {
         
         int num=-8;
-
+System.out.println("the number is:"+num);
         if (num==0) {
             System.out.println(num + " is equal to zero");
         }
