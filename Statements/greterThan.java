@@ -2,6 +2,7 @@ public class greterThan {
     public static void main(String[] args) {
         
         int num =333;
+        System.out.println("The number is :"+num);
 
         if (num > 100) {
             System.out.println(num + " is Greater than 100");
