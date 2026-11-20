@@ -2,6 +2,7 @@ public class getsDiscount {
     public static void main(String[] args) {
         
         int amount=1000;
+        System.out.println("the amount :"+ amount);
 
         if (amount>0) {
              System.out.println("total amount:" + amount);
