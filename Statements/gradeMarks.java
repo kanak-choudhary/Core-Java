@@ -5,6 +5,8 @@ class gradeMarks {
 
        
         int stdMarks =155;
+
+        System.out.println("Total marks of student :" + stdMarks);
         if (stdMarks >= 0 && stdMarks <= 100) {
 
             if (stdMarks >= 75) {
