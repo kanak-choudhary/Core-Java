@@ -12,6 +12,7 @@ class evenNumbers {
                 System.out.println(i);
             }
         }
+        System.out.println("Loop end");
 
         sc.close();
     }
