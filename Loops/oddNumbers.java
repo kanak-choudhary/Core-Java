@@ -12,7 +12,7 @@ class oddNumbers {
                 System.out.println(i);
             }
         }
-        
+        System.out.println("code updated");
 
         sc.close();
     }
