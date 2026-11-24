@@ -12,7 +12,7 @@ class evenNumbers {
                 System.out.println(i);
             }
         }
-        System.out.println("code updated");
+        
 
         sc.close();
     }
