@@ -11,7 +11,7 @@ class printNTo1 {
             System.out.println(n);
             n--;
         }
-        System.out.println("code updated");
+       
 
         sc.close();
     }
