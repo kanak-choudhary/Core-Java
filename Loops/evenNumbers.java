@@ -13,7 +13,6 @@ class evenNumbers {
             }
         }
         
-
         sc.close();
     }
 }
