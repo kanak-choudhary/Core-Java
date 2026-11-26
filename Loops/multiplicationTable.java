@@ -1,3 +1,5 @@
+// 5. Print the multiplication table of a given number.
+
 import java.util.Scanner;
 
 class multiplicationTable {
@@ -10,7 +12,7 @@ class multiplicationTable {
         for (int i = 1; i <= 10; i++) {
             System.out.println(n + " x " + i + " = " + (n * i));
         }
-    
+    System.out.println("loop end");
         sc.close();
     }
 }   
