@@ -1,3 +1,5 @@
+// 4. Print all odd numbers from 1 to N.
+
 import java.util.Scanner;
 
 class oddNumbers {
@@ -12,6 +14,7 @@ class oddNumbers {
                 System.out.println(i);
             }
         }
+        System.out.println("Loop end");
         
 
         sc.close();
