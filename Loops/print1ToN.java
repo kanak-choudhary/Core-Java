@@ -1,3 +1,5 @@
+// 1. Print numbers from 1 to N using a for loop
+
 import java.util.Scanner;
 
 class print1ToN {
