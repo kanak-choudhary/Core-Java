@@ -1,3 +1,5 @@
+// 2. Print numbers from N to 1 using a while loop.
+
 import java.util.Scanner;
 
 class printNTo1 {
@@ -11,7 +13,7 @@ class printNTo1 {
             System.out.println(n);
             n--;
         }
-       
+       System.out.println("Loop end");
 
         sc.close();
     }
