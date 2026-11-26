@@ -1,3 +1,5 @@
+// 8. Find the sum of odd numbers from 1 to N.
+
 import java.util.Scanner;
 
 public class sumOfOddNumbers {
@@ -15,7 +17,7 @@ public class sumOfOddNumbers {
                 sum = sum + i;
             }
         }
-
+System.out.println("loop end ");
         System.out.println("Sum of odd numbers = " + sum);
 
         sc.close();
