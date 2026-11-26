@@ -1,3 +1,5 @@
+// 7. Find the sum of even numbers from 1 to N.
+
 import java.util.Scanner;
 
 public class sumOfEvenNumbers {
@@ -15,7 +17,7 @@ public class sumOfEvenNumbers {
                 sum = sum + i;
             }
         }
-
+        System.out.println("loop end");
         System.out.println("Sum of even numbers = " + sum);
 
         sc.close();
