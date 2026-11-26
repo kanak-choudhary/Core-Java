@@ -1,3 +1,5 @@
+// 3. Print all even numbers from 1 to N.
+
 import java.util.Scanner;
 
 class evenNumbers {
@@ -12,6 +14,7 @@ class evenNumbers {
                 System.out.println(i);
             }
         }
+        System.out.println("Loop end");
         
         sc.close();
     }
