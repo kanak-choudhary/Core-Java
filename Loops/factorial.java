@@ -1,3 +1,5 @@
+// 9. Find the factorial of N.
+
 import java.util.Scanner;
 
 public class factorial {
@@ -13,7 +15,7 @@ public class factorial {
         for (int i = 1; i <= n; i++) {
             factorial = factorial * i;
         }
-
+        System.out.println("loop close");
         System.out.println("Factorial = " + factorial);
 
         sc.close();
