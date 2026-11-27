@@ -13,8 +13,6 @@ class printNTo1 {
             System.out.println(n);
             n--;
         }
-       System.out.println("Loop end");
-
         sc.close();
     }
 }
