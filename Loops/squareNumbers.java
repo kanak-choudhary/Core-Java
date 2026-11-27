@@ -12,6 +12,7 @@ public class squareNumbers {
             int square = i * i;
             System.out.println("Square of " + i + " = " + square);
         }
+        System.out.println("loop close");
 
         sc.close();
     }
