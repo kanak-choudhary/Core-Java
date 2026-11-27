@@ -15,7 +15,7 @@ class evenNumbers {
             }
         }
         
-        System.out.println("Loop end");
+        
         
         sc.close();
     }
