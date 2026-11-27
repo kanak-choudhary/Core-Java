@@ -17,7 +17,7 @@ public class sumOfOddNumbers {
                 sum = sum + i;
             }
         }
-System.out.println("loop end ");
+
         System.out.println("Sum of odd numbers = " + sum);
 
         sc.close();
