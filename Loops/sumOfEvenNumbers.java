@@ -17,7 +17,7 @@ public class sumOfEvenNumbers {
                 sum = sum + i;
             }
         }
-        
+        System.out.println("loop end");
         System.out.println("Sum of even numbers = " + sum);
 
         sc.close();
