@@ -14,7 +14,7 @@ class oddNumbers {
                 System.out.println(i);
             }
         }
-      
+      System.out.println("loop end");
 
         sc.close();
     }
