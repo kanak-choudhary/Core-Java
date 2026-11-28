@@ -16,7 +16,7 @@ public class sumOfNumbers {
             sum = sum + i;
         }
         
-
+System.out.println("loop end");
         System.out.println("Sum = " + sum);
 
         sc.close();
